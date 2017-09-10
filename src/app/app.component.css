@@ -1,0 +1,43 @@
+.wrapper {
+  width: 100%;
+  height: 100%; }
+  .wrapper main {
+    background-color: #fff;
+    min-height: 250px;
+    margin-top: 8%;
+    border-radius: 5px;
+    padding: 10px 30px; }
+    .wrapper main .quote-box {
+      padding: 35px 50px; }
+      .wrapper main .quote-box p {
+        font-weight: 500;
+        font-size: 1.5em; }
+        .wrapper main .quote-box p i {
+          font-size: 1.0em;
+          margin-right: 0.4em; }
+    .wrapper main .author-box {
+      margin-bottom: 20px; }
+      .wrapper main .author-box span {
+        font-size: 1.2em;
+        font-weight: 500; }
+    .wrapper main .button-box {
+      margin-bottom: 20px; }
+      .wrapper main .button-box button {
+        height: 38px;
+        border: none;
+        border-radius: 3px;
+        color: #fff;
+        outline: none;
+        font-size: 0.85em; }
+      .wrapper main .button-box .share-button button {
+        padding: 10px 15px;
+        margin-left: 15px;
+        width: 40px; }
+      .wrapper main .button-box .new-quote button {
+        padding: 10px 5px;
+        margin-right: 20px; }
+  .wrapper footer {
+    color: #fff;
+    margin-top: 30%; }
+
+/*# sourceMappingURL=app.component.css.map */
